@@ -1,2 +1,2 @@
 # CKA
-#To understand more in Githun
+To understand more in Github
